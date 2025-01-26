@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EjercicioClase
 {
-    internal class Superpoder
+    public class Superpoder
     {
         public string nombre {  get; set; }
         public string descripcion { get; set; }

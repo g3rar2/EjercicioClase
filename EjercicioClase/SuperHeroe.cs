@@ -8,7 +8,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace EjercicioClase
 {
-    internal class SuperHeroe
+    public class SuperHeroe
     {
         
         public string nombre { get; set; }
